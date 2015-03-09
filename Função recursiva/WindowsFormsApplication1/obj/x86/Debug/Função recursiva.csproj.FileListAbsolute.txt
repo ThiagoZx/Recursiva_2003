@@ -1,7 +1,0 @@
-C:\Users\Thiago.Torres\Desktop\Função recursiva\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
-C:\Users\Thiago.Torres\Desktop\Função recursiva\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
-C:\Users\Thiago.Torres\Desktop\Função recursiva\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
-C:\Users\Thiago.Torres\Desktop\Função recursiva\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
-C:\Users\Thiago.Torres\Desktop\Função recursiva\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
-C:\Users\Thiago.Torres\Desktop\Função recursiva\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Thiago.Torres\Desktop\Função recursiva\WindowsFormsApplication1\obj\x86\Debug\Função recursiva.csproj.GenerateResource.Cache
